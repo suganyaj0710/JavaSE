@@ -1,3 +1,5 @@
+package com.javaSE8.ClassAndDeclaration;
+
 public class DefaultConstructor {
     // this is an example for default constructor and parameterized constructor
     private long id;

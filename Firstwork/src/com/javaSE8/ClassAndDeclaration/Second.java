@@ -1,3 +1,5 @@
+package com.javaSE8.ClassAndDeclaration;
+
 public class Second {
     private int i;
     private int j;

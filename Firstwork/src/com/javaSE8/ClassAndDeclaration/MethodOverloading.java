@@ -1,8 +1,10 @@
+package com.javaSE8.ClassAndDeclaration;
+
 public class MethodOverloading {
 
     public static void main(String[] args) {
-        System.out.println("MethodOverloading");
-        print("MethodOverloading");
+        System.out.println("com.javaSE8.ClassAndDeclaration.MethodOverloading");
+        print("com.javaSE8.ClassAndDeclaration.MethodOverloading");
         print(123);
         print(1.23f);
         print(false);
